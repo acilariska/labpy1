@@ -26,4 +26,8 @@ else digunakan ketika tidak ada satu kondisi yang terpenuhi maka jalankan progra
 
 terlihat secara keseluruhan
 
+![py](https://user-images.githubusercontent.com/46951612/52631253-e6293600-2ef0-11e9-99c8-156dae914a63.png)
 
+lalu jalan kan program tersebut
+
+maka akan muncul seperti ini
