@@ -36,8 +36,8 @@ dengan menggunakan perintah if else
 
 6. input angka sesuai keinginan sampai bilangan ke-3
   contoh :
-  Bilangan 1 : 12
-  Bilangan 2 : 15
+  Bilangan 1 : 12,
+  Bilangan 2 : 15,
   Bilangan 3 : 13
   
 7. Hasil akhir akan menetukan bilangan terbesar
