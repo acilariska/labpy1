@@ -41,3 +41,7 @@ dengan menggunakan perintah if else
   Bilangan 3 : 13
   
 7. Hasil akhir akan menetukan bilangan terbesar
+
+![py 1](https://user-images.githubusercontent.com/46951612/52631865-87fd5280-2ef2-11e9-94e9-8526e2c0a6cd.png)
+
+##Program yang anda buat berhasil dijalankan :)
